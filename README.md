@@ -1,2 +1,1 @@
-# docker-stremio
-Stremio | Servicio streaming Stremio
+# Stremio | Servicio streaming Stremio
